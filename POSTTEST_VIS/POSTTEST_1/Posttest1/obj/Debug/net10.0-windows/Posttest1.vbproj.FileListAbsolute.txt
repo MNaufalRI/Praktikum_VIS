@@ -1,0 +1,16 @@
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.Form1.resources
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.vbproj.GenerateResource.cache
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.AssemblyInfoInputs.cache
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.AssemblyInfo.vb
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.vbproj.CoreCompileInputs.cache
+D:\Project_Visual\Posttest1\Posttest1\bin\Debug\net10.0-windows\Posttest1.exe
+D:\Project_Visual\Posttest1\Posttest1\bin\Debug\net10.0-windows\Posttest1.deps.json
+D:\Project_Visual\Posttest1\Posttest1\bin\Debug\net10.0-windows\Posttest1.runtimeconfig.json
+D:\Project_Visual\Posttest1\Posttest1\bin\Debug\net10.0-windows\Posttest1.dll
+D:\Project_Visual\Posttest1\Posttest1\bin\Debug\net10.0-windows\Posttest1.pdb
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.dll
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\refint\Posttest1.dll
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.pdb
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\Posttest1.genruntimeconfig.cache
+D:\Project_Visual\Posttest1\Posttest1\obj\Debug\net10.0-windows\ref\Posttest1.dll
