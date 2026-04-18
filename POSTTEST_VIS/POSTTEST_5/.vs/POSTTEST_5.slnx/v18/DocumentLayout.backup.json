@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tes\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ADFBDA6-2C01-9B72-D7F4-735003DCCFC7}|POSTTEST_5.vbproj|c:\\tes\\praktikum_vis\\posttest_vis\\posttest_5\\formanimalcard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6ADFBDA6-2C01-9B72-D7F4-735003DCCFC7}|POSTTEST_5.vbproj|solutionrelative:formanimalcard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAnimalCard.Designer.vb",
+              "DocumentMoniker": "C:\\Tes\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_5\\FormAnimalCard.Designer.vb",
+              "RelativeDocumentMoniker": "FormAnimalCard.Designer.vb",
+              "ToolTip": "C:\\Tes\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_5\\FormAnimalCard.Designer.vb",
+              "RelativeToolTip": "FormAnimalCard.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-18T10:43:14.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
