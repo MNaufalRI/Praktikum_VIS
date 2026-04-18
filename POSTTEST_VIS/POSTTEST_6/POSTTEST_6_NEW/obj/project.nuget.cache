@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpWyV4GM2Q4=",
+  "success": true,
+  "projectFilePath": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
