@@ -63,7 +63,7 @@ Partial Class FormPemain
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label2.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Label2.ForeColor = Color.Teal
         Label2.Location = New Point(15, 55)
         Label2.Name = "Label2"
@@ -84,7 +84,7 @@ Partial Class FormPemain
         ' Label3
         ' 
         Label3.AutoSize = True
-        Label3.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label3.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         Label3.ForeColor = Color.Teal
         Label3.Location = New Point(125, 55)
         Label3.Name = "Label3"
@@ -121,7 +121,7 @@ Partial Class FormPemain
         ' lblStatDeck
         ' 
         lblStatDeck.AutoSize = True
-        lblStatDeck.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Bold)
+        lblStatDeck.Font = New Font("Comic Sans MS", 9F, FontStyle.Bold)
         lblStatDeck.Location = New Point(15, 185)
         lblStatDeck.Name = "lblStatDeck"
         lblStatDeck.Size = New Size(152, 21)
@@ -131,7 +131,7 @@ Partial Class FormPemain
         ' lblStatWin
         ' 
         lblStatWin.AutoSize = True
-        lblStatWin.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Bold)
+        lblStatWin.Font = New Font("Comic Sans MS", 9F, FontStyle.Bold)
         lblStatWin.Location = New Point(200, 185)
         lblStatWin.Name = "lblStatWin"
         lblStatWin.Size = New Size(144, 21)
@@ -153,7 +153,7 @@ Partial Class FormPemain
         ' Label5
         ' 
         Label5.AutoSize = True
-        Label5.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
+        Label5.Font = New Font("Comic Sans MS", 9F, FontStyle.Italic, GraphicsUnit.Point, CByte(0))
         Label5.Location = New Point(15, 212)
         Label5.Name = "Label5"
         Label5.Size = New Size(174, 22)
@@ -172,7 +172,7 @@ Partial Class FormPemain
         ' Label9
         ' 
         Label9.AutoSize = True
-        Label9.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        Label9.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         Label9.ForeColor = Color.Teal
         Label9.Location = New Point(475, 21)
         Label9.Name = "Label9"
@@ -186,14 +186,13 @@ Partial Class FormPemain
         dgvPemain.BorderStyle = BorderStyle.None
         dgvPemain.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.Single
         DataGridViewCellStyle1.Alignment = DataGridViewContentAlignment.MiddleLeft
-        DataGridViewCellStyle1.BackColor = Color.FromArgb(CByte(45), CByte(174), CByte(55))
-        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        DataGridViewCellStyle1.BackColor = Color.Aqua
+        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         DataGridViewCellStyle1.ForeColor = Color.White
-        DataGridViewCellStyle1.SelectionBackColor = Color.FromArgb(CByte(45), CByte(174), CByte(55))
+        DataGridViewCellStyle1.SelectionBackColor = Color.FromArgb(CByte(192), CByte(255), CByte(255))
         dgvPemain.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
         dgvPemain.ColumnHeadersHeight = 29
         dgvPemain.EnableHeadersVisualStyles = False
-        dgvPemain.GridColor = Color.FromArgb(CByte(200), CByte(230), CByte(200))
         dgvPemain.Location = New Point(400, 60)
         dgvPemain.Name = "dgvPemain"
         dgvPemain.RowHeadersWidth = 51
@@ -209,7 +208,7 @@ Partial Class FormPemain
         ' 
         btnSimpan.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(192))
         btnSimpan.FlatStyle = FlatStyle.Flat
-        btnSimpan.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnSimpan.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnSimpan.ForeColor = Color.White
         btnSimpan.Location = New Point(15, 411)
         btnSimpan.Name = "btnSimpan"
@@ -222,7 +221,7 @@ Partial Class FormPemain
         ' 
         btnUbah.BackColor = Color.Teal
         btnUbah.FlatStyle = FlatStyle.Flat
-        btnUbah.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnUbah.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnUbah.ForeColor = Color.White
         btnUbah.Location = New Point(105, 411)
         btnUbah.Name = "btnUbah"
@@ -235,7 +234,7 @@ Partial Class FormPemain
         ' 
         btnHapus.BackColor = Color.FromArgb(CByte(230), CByte(80), CByte(80))
         btnHapus.FlatStyle = FlatStyle.Flat
-        btnHapus.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnHapus.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnHapus.ForeColor = Color.White
         btnHapus.Location = New Point(195, 411)
         btnHapus.Name = "btnHapus"
@@ -248,7 +247,7 @@ Partial Class FormPemain
         ' 
         btnBatal.BackColor = Color.FromArgb(CByte(0), CByte(192), CByte(192))
         btnBatal.FlatStyle = FlatStyle.Flat
-        btnBatal.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnBatal.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnBatal.ForeColor = Color.White
         btnBatal.Location = New Point(285, 411)
         btnBatal.Name = "btnBatal"
@@ -263,7 +262,7 @@ Partial Class FormPemain
         ' 
         ' FormPemain
         ' 
-        AutoScaleDimensions = New SizeF(8.0F, 20.0F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(1160, 480)
         Controls.Add(btnBatal)

@@ -1,54 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\",
+  "WorkspaceRootPath": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formpemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formpemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formmiraclecard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formmiraclecard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formstrongcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formstrongcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formdeckbuilder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formdeckbuilder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formdeckbuilder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formmiraclecard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formdeckbuilder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formdeckbuilder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formstrongcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formstrongcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formmiraclecard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formmiraclecard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\posttest_6_new.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\posttest_6_new.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\datamodule_pemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\datamodule_pemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\datamodule_deck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\datamodule_deck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\datamodule_deck.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formanimalcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formanimalcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formpemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formpemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formpemain.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|c:\\tes2\\praktikum_vis\\posttest_vis\\posttest_6_new\\posttest_6_new\\formanimalcard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formanimalcard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formanimalcard.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|d:\\vis_naufal\\praktikum_vis\\posttest_vis\\posttest_6\\posttest_6_new\\formanimalcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{CA8355C2-A3C2-E30C-6887-B6520CABF444}|POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj|solutionrelative:posttest_6_new\\formanimalcard.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,154 +50,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FormMiracleCard.vb [Design]",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormMiracleCard.vb",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormMiracleCard.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormMiracleCard.vb [Design]",
-              "RelativeToolTip": "POSTTEST_6_NEW\\FormMiracleCard.vb [Design]",
+              "DocumentIndex": 0,
+              "Title": "FormPemain.vb [Design]",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormPemain.vb",
+              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormPemain.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormPemain.vb [Design]",
+              "RelativeToolTip": "POSTTEST_6_NEW\\FormPemain.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:25:42.754Z",
+              "WhenOpened": "2026-04-20T03:25:52.554Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FormDeckBuilder.vb [Design]",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormDeckBuilder.vb",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormDeckBuilder.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormDeckBuilder.vb [Design]",
-              "RelativeToolTip": "POSTTEST_6_NEW\\FormDeckBuilder.vb [Design]",
+              "Title": "FormStrongCard.vb [Design]",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormStrongCard.vb",
+              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormStrongCard.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormStrongCard.vb [Design]",
+              "RelativeToolTip": "POSTTEST_6_NEW\\FormStrongCard.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:24:32.872Z",
+              "WhenOpened": "2026-04-20T03:25:25.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMiracleCard.vb [Design]",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormMiracleCard.vb",
+              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormMiracleCard.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormMiracleCard.vb [Design]",
+              "RelativeToolTip": "POSTTEST_6_NEW\\FormMiracleCard.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-20T03:24:37.097Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormStrongCard.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormStrongCard.vb",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormStrongCard.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormStrongCard.vb",
-              "RelativeToolTip": "POSTTEST_6_NEW\\FormStrongCard.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAA6wHcAAAALAAAAAAAAAA==",
+              "Title": "FormDeckBuilder.vb",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormDeckBuilder.vb",
+              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormDeckBuilder.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormDeckBuilder.vb",
+              "RelativeToolTip": "POSTTEST_6_NEW\\FormDeckBuilder.vb",
+              "ViewState": "AgIAAA0BAAAAAAAAAAAkwBkBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:06:59.949Z",
+              "WhenOpened": "2026-04-20T03:18:45.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormMiracleCard.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormMiracleCard.vb",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormMiracleCard.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormMiracleCard.vb",
-              "RelativeToolTip": "POSTTEST_6_NEW\\FormMiracleCard.vb",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAswF4AAAA9AAAAAAAAAA==",
+              "Title": "FormDeckBuilder.vb [Design]",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormDeckBuilder.vb",
+              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormDeckBuilder.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormDeckBuilder.vb [Design]",
+              "RelativeToolTip": "POSTTEST_6_NEW\\FormDeckBuilder.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:06:43.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb [Design]",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\Form1.vb",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\Form1.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\Form1.vb [Design]",
-              "RelativeToolTip": "POSTTEST_6_NEW\\Form1.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T12:51:46.744Z",
+              "WhenOpened": "2026-04-20T03:11:39.423Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\Form1.vb",
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\Form1.vb",
               "RelativeDocumentMoniker": "POSTTEST_6_NEW\\Form1.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\Form1.vb",
-              "RelativeToolTip": "POSTTEST_6_NEW\\Form1.vb",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\Form1.vb [Design]",
+              "RelativeToolTip": "POSTTEST_6_NEW\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T12:58:35.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-20T03:09:05.986Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "POSTTEST_6_NEW",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj",
-              "RelativeToolTip": "POSTTEST_6_NEW\\POSTTEST_6_NEW.vbproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
-              "WhenOpened": "2026-04-18T13:07:21.676Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DataModule_Pemain.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\DataModule_Pemain.vb",
-              "RelativeDocumentMoniker": "POSTTEST_6_NEW\\DataModule_Pemain.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\DataModule_Pemain.vb",
-              "RelativeToolTip": "POSTTEST_6_NEW\\DataModule_Pemain.vb",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAwwIMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:10:56.343Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "DataModule_Deck.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\DataModule_Deck.vb",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\DataModule_Deck.vb",
               "RelativeDocumentMoniker": "POSTTEST_6_NEW\\DataModule_Deck.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\DataModule_Deck.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\DataModule_Deck.vb",
               "RelativeToolTip": "POSTTEST_6_NEW\\DataModule_Deck.vb",
               "ViewState": "AgIAADYAAAAAAAAAAAAowAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:10:41.937Z"
+              "WhenOpened": "2026-04-18T13:10:41.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FormAnimalCard.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormAnimalCard.vb",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormAnimalCard.vb",
               "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormAnimalCard.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormAnimalCard.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormAnimalCard.vb",
               "RelativeToolTip": "POSTTEST_6_NEW\\FormAnimalCard.vb",
-              "ViewState": "AgIAAIwAAAAAAAAAAAA/wKcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAswKcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:06:14.146Z"
+              "WhenOpened": "2026-04-18T13:06:14.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "FormPemain.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormPemain.vb",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormPemain.vb",
               "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormPemain.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormPemain.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormPemain.vb",
               "RelativeToolTip": "POSTTEST_6_NEW\\FormPemain.vb",
               "ViewState": "AgIAAHgAAAAAAAAAAAAIwH4AAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T13:05:55.282Z"
+              "WhenOpened": "2026-04-18T13:05:55.282Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
               "Title": "FormAnimalCard.Designer.vb",
-              "DocumentMoniker": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormAnimalCard.Designer.vb",
+              "DocumentMoniker": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormAnimalCard.Designer.vb",
               "RelativeDocumentMoniker": "POSTTEST_6_NEW\\FormAnimalCard.Designer.vb",
-              "ToolTip": "C:\\Tes2\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6_NEW\\POSTTEST_6_NEW\\FormAnimalCard.Designer.vb",
+              "ToolTip": "D:\\VIS_Naufal\\Praktikum_VIS\\POSTTEST_VIS\\POSTTEST_6\\POSTTEST_6_NEW\\FormAnimalCard.Designer.vb",
               "RelativeToolTip": "POSTTEST_6_NEW\\FormAnimalCard.Designer.vb",
               "ViewState": "AgIAAJsBAAAAAAAAAAAwwKcBAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2026-04-18T12:55:54.566Z"
+              "WhenOpened": "2026-04-18T12:55:54.566Z",
+              "EditorCaption": ""
             }
           ]
         }

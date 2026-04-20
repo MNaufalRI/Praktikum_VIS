@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("POSTTEST_6_NEW"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a27549f9029bfbdb29345310923e4fe824a91ce5"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+73c35f0a29353d626b9ae48e7a997798f38b53cf"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("POSTTEST_6_NEW"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("POSTTEST_6_NEW"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

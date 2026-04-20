@@ -43,7 +43,6 @@ Partial Class FormDeckBuilder
         Label7 = New Label()
         cmbMiracleCard = New ComboBox()
         lblMiracleInfo = New Label()
-        Label8 = New Label()
         lblTotalPower = New Label()
         prgPower = New ProgressBar()
         Label9 = New Label()
@@ -64,114 +63,110 @@ Partial Class FormDeckBuilder
         Label1.AutoSize = True
         Label1.Font = New Font("Trebuchet MS", 16.2F, FontStyle.Bold)
         Label1.ForeColor = Color.FromArgb(CByte(255), CByte(128), CByte(0))
-        Label1.Location = New Point(10, 7)
+        Label1.Location = New Point(11, 9)
         Label1.Name = "Label1"
-        Label1.Size = New Size(217, 27)
+        Label1.Size = New Size(277, 36)
         Label1.TabIndex = 0
         Label1.Text = "DECK MANAGEMENT"
         ' 
         ' txtSearch
         ' 
-        txtSearch.Location = New Point(350, 56)
-        txtSearch.Margin = New Padding(3, 2, 3, 2)
+        txtSearch.Location = New Point(400, 75)
         txtSearch.Name = "txtSearch"
         txtSearch.PlaceholderText = "🔍 Cari nama deck atau pemain..."
-        txtSearch.Size = New Size(482, 23)
+        txtSearch.Size = New Size(550, 27)
         txtSearch.TabIndex = 1
         ' 
         ' dgvDeck
         ' 
         dgvDeck.BackgroundColor = Color.White
         dgvDeck.BorderStyle = BorderStyle.None
-        DataGridViewCellStyle1.BackColor = Color.FromArgb(CByte(45), CByte(174), CByte(55))
-        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        DataGridViewCellStyle1.BackColor = Color.FromArgb(CByte(255), CByte(128), CByte(0))
+        DataGridViewCellStyle1.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         DataGridViewCellStyle1.ForeColor = Color.White
         dgvDeck.ColumnHeadersDefaultCellStyle = DataGridViewCellStyle1
+        dgvDeck.ColumnHeadersHeight = 29
         dgvDeck.EnableHeadersVisualStyles = False
-        dgvDeck.Location = New Point(350, 86)
-        dgvDeck.Margin = New Padding(3, 2, 3, 2)
+        dgvDeck.Location = New Point(400, 115)
         dgvDeck.Name = "dgvDeck"
         dgvDeck.RowHeadersVisible = False
-        dgvDeck.Size = New Size(648, 371)
+        dgvDeck.RowHeadersWidth = 51
+        dgvDeck.Size = New Size(741, 495)
         dgvDeck.TabIndex = 2
         ' 
         ' Label2
         ' 
-        Label2.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(13, 41)
+        Label2.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label2.Location = New Point(15, 55)
         Label2.Name = "Label2"
-        Label2.Size = New Size(88, 15)
+        Label2.Size = New Size(101, 20)
         Label2.TabIndex = 18
         Label2.Text = "ID Deck (Auto)"
         ' 
         ' txtIdDeck
         ' 
-        txtIdDeck.Location = New Point(13, 56)
-        txtIdDeck.Margin = New Padding(3, 2, 3, 2)
+        txtIdDeck.Location = New Point(15, 75)
         txtIdDeck.Name = "txtIdDeck"
         txtIdDeck.ReadOnly = True
-        txtIdDeck.Size = New Size(88, 23)
+        txtIdDeck.Size = New Size(100, 27)
         txtIdDeck.TabIndex = 3
         ' 
         ' Label3
         ' 
-        Label3.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label3.Location = New Point(109, 41)
+        Label3.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label3.Location = New Point(125, 55)
         Label3.Name = "Label3"
-        Label3.Size = New Size(88, 15)
+        Label3.Size = New Size(101, 20)
         Label3.TabIndex = 19
         Label3.Text = "Nama Deck"
         ' 
         ' txtNamaDeck
         ' 
-        txtNamaDeck.Location = New Point(109, 56)
-        txtNamaDeck.Margin = New Padding(3, 2, 3, 2)
+        txtNamaDeck.Location = New Point(125, 75)
         txtNamaDeck.Name = "txtNamaDeck"
-        txtNamaDeck.Size = New Size(210, 23)
+        txtNamaDeck.Size = New Size(239, 27)
         txtNamaDeck.TabIndex = 4
         ' 
         ' Label4
         ' 
-        Label4.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label4.Location = New Point(10, 81)
+        Label4.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label4.Location = New Point(11, 108)
         Label4.Name = "Label4"
-        Label4.Size = New Size(131, 15)
+        Label4.Size = New Size(150, 20)
         Label4.TabIndex = 20
         Label4.Text = "Pemain Owner"
         ' 
         ' cmbPemain
         ' 
         cmbPemain.DropDownStyle = ComboBoxStyle.DropDownList
-        cmbPemain.Location = New Point(13, 98)
-        cmbPemain.Margin = New Padding(3, 2, 3, 2)
+        cmbPemain.Location = New Point(15, 131)
         cmbPemain.Name = "cmbPemain"
-        cmbPemain.Size = New Size(307, 23)
+        cmbPemain.Size = New Size(350, 28)
         cmbPemain.TabIndex = 5
         ' 
         ' Label5
         ' 
-        Label5.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label5.Location = New Point(13, 128)
+        Label5.Font = New Font("Comic Sans MS", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Label5.Location = New Point(15, 171)
         Label5.Name = "Label5"
-        Label5.Size = New Size(131, 15)
+        Label5.Size = New Size(150, 20)
         Label5.TabIndex = 21
         Label5.Text = "Animal Card"
         ' 
         ' cmbAnimalCard
         ' 
-        cmbAnimalCard.Location = New Point(13, 142)
-        cmbAnimalCard.Margin = New Padding(3, 2, 3, 2)
+        cmbAnimalCard.Location = New Point(15, 189)
         cmbAnimalCard.Name = "cmbAnimalCard"
-        cmbAnimalCard.Size = New Size(307, 23)
+        cmbAnimalCard.Size = New Size(350, 28)
         cmbAnimalCard.TabIndex = 6
         ' 
         ' lblAnimalInfo
         ' 
-        lblAnimalInfo.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        lblAnimalInfo.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
         lblAnimalInfo.ForeColor = Color.DimGray
-        lblAnimalInfo.Location = New Point(13, 165)
+        lblAnimalInfo.Location = New Point(15, 220)
         lblAnimalInfo.Name = "lblAnimalInfo"
-        lblAnimalInfo.Size = New Size(175, 15)
+        lblAnimalInfo.Size = New Size(200, 20)
         lblAnimalInfo.TabIndex = 16
         lblAnimalInfo.Text = "Strength: - | Health: -"
         ' 
@@ -184,19 +179,18 @@ Partial Class FormDeckBuilder
         ' 
         ' Label6
         ' 
-        Label6.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label6.Location = New Point(13, 188)
+        Label6.Font = New Font("Comic Sans MS", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Label6.Location = New Point(15, 251)
         Label6.Name = "Label6"
-        Label6.Size = New Size(131, 15)
+        Label6.Size = New Size(150, 20)
         Label6.TabIndex = 22
         Label6.Text = "Strong Card"
         ' 
         ' cmbStrongCard
         ' 
-        cmbStrongCard.Location = New Point(13, 202)
-        cmbStrongCard.Margin = New Padding(3, 2, 3, 2)
+        cmbStrongCard.Location = New Point(15, 269)
         cmbStrongCard.Name = "cmbStrongCard"
-        cmbStrongCard.Size = New Size(307, 23)
+        cmbStrongCard.Size = New Size(350, 28)
         cmbStrongCard.TabIndex = 7
         ' 
         ' lblStrongInfo
@@ -208,19 +202,18 @@ Partial Class FormDeckBuilder
         ' 
         ' Label7
         ' 
-        Label7.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
-        Label7.Location = New Point(13, 248)
+        Label7.Font = New Font("Comic Sans MS", 9F, FontStyle.Bold, GraphicsUnit.Point, CByte(0))
+        Label7.Location = New Point(15, 331)
         Label7.Name = "Label7"
-        Label7.Size = New Size(131, 15)
+        Label7.Size = New Size(150, 20)
         Label7.TabIndex = 23
         Label7.Text = "Miracle Card"
         ' 
         ' cmbMiracleCard
         ' 
-        cmbMiracleCard.Location = New Point(13, 262)
-        cmbMiracleCard.Margin = New Padding(3, 2, 3, 2)
+        cmbMiracleCard.Location = New Point(15, 349)
         cmbMiracleCard.Name = "cmbMiracleCard"
-        cmbMiracleCard.Size = New Size(307, 23)
+        cmbMiracleCard.Size = New Size(350, 28)
         cmbMiracleCard.TabIndex = 8
         ' 
         ' lblMiracleInfo
@@ -230,80 +223,67 @@ Partial Class FormDeckBuilder
         lblMiracleInfo.Size = New Size(100, 23)
         lblMiracleInfo.TabIndex = 0
         ' 
-        ' Label8
-        ' 
-        Label8.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label8.Location = New Point(13, 311)
-        Label8.Name = "Label8"
-        Label8.Size = New Size(131, 15)
-        Label8.TabIndex = 24
-        Label8.Text = "TOTAL DECK POWER"
-        ' 
         ' lblTotalPower
         ' 
-        lblTotalPower.Font = New Font("Segoe UI", 12.0F, FontStyle.Bold)
-        lblTotalPower.Location = New Point(262, 308)
+        lblTotalPower.Font = New Font("Segoe UI", 12F, FontStyle.Bold)
+        lblTotalPower.Location = New Point(15, 408)
         lblTotalPower.Name = "lblTotalPower"
-        lblTotalPower.Size = New Size(57, 22)
+        lblTotalPower.Size = New Size(349, 29)
         lblTotalPower.TabIndex = 17
         lblTotalPower.Text = "0"
-        lblTotalPower.TextAlign = ContentAlignment.MiddleRight
+        lblTotalPower.TextAlign = ContentAlignment.MiddleLeft
         ' 
         ' prgPower
         ' 
-        prgPower.Location = New Point(13, 330)
-        prgPower.Margin = New Padding(3, 2, 3, 2)
+        prgPower.Location = New Point(15, 440)
         prgPower.Maximum = 15000
         prgPower.Name = "prgPower"
-        prgPower.Size = New Size(306, 11)
+        prgPower.Size = New Size(350, 15)
         prgPower.TabIndex = 9
         ' 
         ' Label9
         ' 
-        Label9.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label9.Location = New Point(13, 352)
+        Label9.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label9.Location = New Point(15, 469)
         Label9.Name = "Label9"
-        Label9.Size = New Size(105, 15)
+        Label9.Size = New Size(120, 20)
         Label9.TabIndex = 25
         Label9.Text = "Status Deck"
         ' 
         ' cmbStatusDeck
         ' 
         cmbStatusDeck.Items.AddRange(New Object() {"Aktif", "Nonaktif"})
-        cmbStatusDeck.Location = New Point(13, 368)
-        cmbStatusDeck.Margin = New Padding(3, 2, 3, 2)
+        cmbStatusDeck.Location = New Point(15, 491)
         cmbStatusDeck.Name = "cmbStatusDeck"
-        cmbStatusDeck.Size = New Size(106, 23)
+        cmbStatusDeck.Size = New Size(121, 28)
         cmbStatusDeck.TabIndex = 10
         ' 
         ' Label10
         ' 
-        Label10.Font = New Font("Comic Sans MS", 9.0F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label10.Location = New Point(131, 352)
+        Label10.Font = New Font("Comic Sans MS", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        Label10.Location = New Point(150, 469)
         Label10.Name = "Label10"
-        Label10.Size = New Size(105, 15)
+        Label10.Size = New Size(120, 20)
         Label10.TabIndex = 26
         Label10.Text = "Catatan Strategi"
         ' 
         ' txtCatatan
         ' 
-        txtCatatan.Location = New Point(131, 368)
-        txtCatatan.Margin = New Padding(3, 2, 3, 2)
+        txtCatatan.Location = New Point(150, 491)
         txtCatatan.Multiline = True
         txtCatatan.Name = "txtCatatan"
-        txtCatatan.Size = New Size(189, 46)
+        txtCatatan.Size = New Size(215, 60)
         txtCatatan.TabIndex = 11
         ' 
         ' btnSimpan
         ' 
         btnSimpan.BackColor = Color.SandyBrown
         btnSimpan.FlatStyle = FlatStyle.Flat
-        btnSimpan.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnSimpan.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnSimpan.ForeColor = Color.White
-        btnSimpan.Location = New Point(13, 428)
-        btnSimpan.Margin = New Padding(3, 2, 3, 2)
+        btnSimpan.Location = New Point(15, 571)
         btnSimpan.Name = "btnSimpan"
-        btnSimpan.Size = New Size(70, 30)
+        btnSimpan.Size = New Size(80, 40)
         btnSimpan.TabIndex = 12
         btnSimpan.Text = "SIMPAN"
         btnSimpan.UseVisualStyleBackColor = False
@@ -312,12 +292,11 @@ Partial Class FormDeckBuilder
         ' 
         btnUbah.BackColor = Color.Chocolate
         btnUbah.FlatStyle = FlatStyle.Flat
-        btnUbah.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnUbah.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnUbah.ForeColor = Color.White
-        btnUbah.Location = New Point(92, 428)
-        btnUbah.Margin = New Padding(3, 2, 3, 2)
+        btnUbah.Location = New Point(105, 571)
         btnUbah.Name = "btnUbah"
-        btnUbah.Size = New Size(70, 30)
+        btnUbah.Size = New Size(80, 40)
         btnUbah.TabIndex = 13
         btnUbah.Text = "UBAH"
         btnUbah.UseVisualStyleBackColor = False
@@ -326,12 +305,11 @@ Partial Class FormDeckBuilder
         ' 
         btnHapus.BackColor = Color.FromArgb(CByte(230), CByte(80), CByte(80))
         btnHapus.FlatStyle = FlatStyle.Flat
-        btnHapus.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnHapus.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnHapus.ForeColor = Color.White
-        btnHapus.Location = New Point(171, 428)
-        btnHapus.Margin = New Padding(3, 2, 3, 2)
+        btnHapus.Location = New Point(195, 571)
         btnHapus.Name = "btnHapus"
-        btnHapus.Size = New Size(70, 30)
+        btnHapus.Size = New Size(80, 40)
         btnHapus.TabIndex = 14
         btnHapus.Text = "HAPUS"
         btnHapus.UseVisualStyleBackColor = False
@@ -340,12 +318,11 @@ Partial Class FormDeckBuilder
         ' 
         btnBatal.BackColor = Color.PeachPuff
         btnBatal.FlatStyle = FlatStyle.Flat
-        btnBatal.Font = New Font("Segoe UI", 9.0F, FontStyle.Bold)
+        btnBatal.Font = New Font("Segoe UI", 9F, FontStyle.Bold)
         btnBatal.ForeColor = Color.Gray
-        btnBatal.Location = New Point(249, 428)
-        btnBatal.Margin = New Padding(3, 2, 3, 2)
+        btnBatal.Location = New Point(285, 571)
         btnBatal.Name = "btnBatal"
-        btnBatal.Size = New Size(70, 30)
+        btnBatal.Size = New Size(80, 40)
         btnBatal.TabIndex = 15
         btnBatal.Text = "BATAL"
         btnBatal.UseVisualStyleBackColor = False
@@ -356,9 +333,9 @@ Partial Class FormDeckBuilder
         ' 
         ' FormDeckBuilder
         ' 
-        AutoScaleDimensions = New SizeF(7.0F, 15.0F)
+        AutoScaleDimensions = New SizeF(8F, 20F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(1015, 472)
+        ClientSize = New Size(1160, 629)
         Controls.Add(lblTotalPower)
         Controls.Add(lblAnimalInfo)
         Controls.Add(btnBatal)
@@ -383,11 +360,9 @@ Partial Class FormDeckBuilder
         Controls.Add(Label5)
         Controls.Add(Label6)
         Controls.Add(Label7)
-        Controls.Add(Label8)
         Controls.Add(Label9)
         Controls.Add(Label10)
         FormBorderStyle = FormBorderStyle.None
-        Margin = New Padding(3, 2, 3, 2)
         Name = "FormDeckBuilder"
         Text = "Animal Kaiser - Deck Management"
         CType(dgvDeck, ComponentModel.ISupportInitialize).EndInit()
@@ -416,7 +391,6 @@ Partial Class FormDeckBuilder
     Friend WithEvents Label7 As System.Windows.Forms.Label
     Friend WithEvents cmbMiracleCard As System.Windows.Forms.ComboBox
     Friend WithEvents lblMiracleInfo As System.Windows.Forms.Label
-    Friend WithEvents Label8 As System.Windows.Forms.Label
     Friend WithEvents lblTotalPower As System.Windows.Forms.Label
     Friend WithEvents prgPower As System.Windows.Forms.ProgressBar
     Friend WithEvents Label9 As System.Windows.Forms.Label
